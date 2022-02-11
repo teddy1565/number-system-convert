@@ -42,4 +42,8 @@ function hex_to_binary (value,Integer=false) {
     return result;
 }
 
+function binary_to_hex (value,Integer=false) {
+    
+}
+
 const self = module.exports = { hex_to_binary };
